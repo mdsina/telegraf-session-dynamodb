@@ -47,6 +47,7 @@
     "telegraf": "^3.19.0"
   },
   "dependencies": {
-    "lzma-native": "^3.0.7"
+    "lzma-native": "^3.0.7",
+    "object-assign-deep": "^0.4.0"
   }
 }
