@@ -45,5 +45,8 @@
   "peerDependencies": {
     "aws-sdk": "^2.208.0",
     "telegraf": "^3.19.0"
+  },
+  "dependencies": {
+    "lzma-native": "^3.0.7"
   }
 }
